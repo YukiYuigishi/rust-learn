@@ -1,4 +1,5 @@
 #![allow(unused)]
+struct Color(i32,i32,i32);
 struct User {
     username: String,
     email:String,
